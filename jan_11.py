@@ -85,3 +85,4 @@ list1=[1,2,3,'55','i','royal']
 # add 'royal' in list1  at last index --insert,append
 
 print(list1)
+
